@@ -83,4 +83,4 @@ To test where the memory lives, run `history = [("system", system_prompt)]` and 
 
 A prompt tells the assistant **how to respond**. Conversation history tells it **what has already been said**. Python decides **what to save and what to send next**.
 
-**BELLUM POOJITHA** · `24B11AI035`
+
