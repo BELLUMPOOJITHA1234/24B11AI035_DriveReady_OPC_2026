@@ -1,0 +1,18 @@
+1. Campus Print Shop offers black-and-white printing, colour printing, and spiral binding.
+2. Black-and-white printing costs ₹2 per printed side.
+3. Colour printing costs ₹10 per printed side.
+4. Spiral binding costs ₹30 per bound copy.
+5. A mixed document contains both colour and black-and-white pages. Each printed side is charged at its own rate.
+6. Single-sided printing uses one sheet of paper for each printed page.
+7. Double-sided printing fits up to two printed pages on one sheet.
+8. A 21-page document printed double-sided needs 11 sheets per copy.
+9. Switching to double-sided printing saves paper. The printing price stays the same when the number and type of printed sides stay the same.
+10. Binding is optional. An unbound copy has no binding charge.
+11. Two separately bound copies have a total binding charge of ₹60, in addition to printing costs.
+12. The order record stores the customer's name, pages per copy, number of copies, print type, and spiral binding choice.
+13. Pages per copy means the number of pages in one complete copy of the document.
+14. A missing binding choice means the customer has not yet specified whether they want binding.
+15. A price estimate for a mixed document needs the number of colour pages and the number of black-and-white pages.
+16. A “what if” question gives a price preview and leaves the customer's saved order unchanged.
+17. Only the shop owner can confirm a pickup time.
+18. Lamination is outside the shop's current service catalogue.
