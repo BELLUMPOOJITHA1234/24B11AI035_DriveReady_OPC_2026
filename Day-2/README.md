@@ -1,6 +1,6 @@
 # 🖨️ Day 2 – Campus Print Shop Chatbot with Memory
 
-**Drive Ready – AI Agents | One Person Company Initiative | Aditya University**  
+
 
 
 > “I need 20 black-and-white pages. What if I make the first page colour?”
