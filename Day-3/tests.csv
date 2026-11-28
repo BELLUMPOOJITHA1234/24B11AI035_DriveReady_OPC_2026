@@ -1,0 +1,11 @@
+question,must_include
+"What services does the Campus Print Shop offer?",binding
+"How much does one colour printed side cost in rupees?",10
+"What is the cost of one copy of 20 black-and-white pages without binding?",40
+"How many sheets do I need for one double-sided copy of 20 pages?",10
+"If I change the first page of my 20-page black-and-white document to colour, what will one copy cost without binding?",48
+"What is the printing cost for one copy with 19 black-and-white pages and one colour page?",48
+"How much is one spiral-bound copy with 19 black-and-white pages and one colour page?",78
+"What is the total for two spiral-bound copies, each with 19 black-and-white pages and one colour page?",156
+"My order is two spiral-bound copies, each with 19 black-and-white pages and one colour page. Can you summarise my order and give the total?",156
+"Can you confirm that my print order will be ready for pickup at 4 PM today?",owner
