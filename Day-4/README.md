@@ -1,6 +1,5 @@
 # 🖨️ Day 4 – Campus Print Shop Agent with Tools
 
-Drive Ready – AI Agents | Aditya University
 
 > “How much does spiral binding cost per copy?”
 
