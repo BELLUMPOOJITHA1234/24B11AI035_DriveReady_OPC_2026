@@ -1,6 +1,6 @@
 # 🧁 Day 1 | How LLMs Work and My First API Call
 
-*Drive Ready – AI Agents | One Person Company Initiative | Aditya University*
+
 
 **“Can I get my cake tomorrow?”** A customer asks a simple question, but the answer depends on the bakery’s rules. Sweet Crumbs needs 24 hours of notice, and it cannot promise a delivery time. In this project, I built an AI assistant that uses those details to give the customer a short, helpful reply.
 
