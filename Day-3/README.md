@@ -1,7 +1,5 @@
 # Day 3 – Campus Print Shop Assistant with LangChain
 
-**BELLUM POOJITHA · 24B11AI035**  
-Drive Ready – AI Agents | Aditya University
 
 ## Task
 Build a print shop assistant using LangChain, test it with 10 customer
